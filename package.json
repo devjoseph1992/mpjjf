@@ -1,0 +1,15 @@
+{
+  "name": "mpjjf",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass --watch scss/ --output dist/css --recursive"
+  },
+  "author": "john joseph florina",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
